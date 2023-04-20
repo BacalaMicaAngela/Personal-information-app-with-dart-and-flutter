@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "336070708897",
+    "project_id": "personal-information-app-2d865",
+    "storage_bucket": "personal-information-app-2d865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336070708897:android:428223a3241a7c842beae0",
+        "android_client_info": {
+          "package_name": "com.personal.info.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336070708897-emquj7lcsnfln2tncpldf8c4es1qi6qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5Qh4ciL_Ipnjw1dnGzoj16XB7nyx1lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336070708897-emquj7lcsnfln2tncpldf8c4es1qi6qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336070708897-3dugeub623rre5c0nklbuo5129nrgna3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.personal.info.app."
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
